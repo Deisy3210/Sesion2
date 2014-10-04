@@ -1,0 +1,6 @@
+c:\users\lab104bpc21\documents\visual studio 2012\Projects\AppnLongitudNumero\AppnLongitudNumero\bin\Debug\AppnLongitudNumero.exe.config
+c:\users\lab104bpc21\documents\visual studio 2012\Projects\AppnLongitudNumero\AppnLongitudNumero\bin\Debug\AppnLongitudNumero.exe
+c:\users\lab104bpc21\documents\visual studio 2012\Projects\AppnLongitudNumero\AppnLongitudNumero\bin\Debug\AppnLongitudNumero.pdb
+c:\users\lab104bpc21\documents\visual studio 2012\Projects\AppnLongitudNumero\AppnLongitudNumero\obj\Debug\AppnLongitudNumero.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc21\documents\visual studio 2012\Projects\AppnLongitudNumero\AppnLongitudNumero\obj\Debug\AppnLongitudNumero.exe
+c:\users\lab104bpc21\documents\visual studio 2012\Projects\AppnLongitudNumero\AppnLongitudNumero\obj\Debug\AppnLongitudNumero.pdb
